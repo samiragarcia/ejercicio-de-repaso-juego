@@ -1,0 +1,23 @@
+select {
+    display: grid;
+    place-content: center;
+    width: 100px;
+    border-radius: 6px;
+    height: 22px;
+}
+
+img {
+    width: 400px;
+
+}
+
+div {
+    display: grid;
+    justify-content: space-between;
+    
+}
+
+#maquina {
+    display: grid;
+    justify-content: space-between;
+}
